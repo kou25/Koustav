@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "React Js",
+    "image": "https://tinyurl.com/yb2zvufm",
+    "favorite": "100"
+  },
+  {
+    "id": 2,
+    "name": "Next Js",
+    "image": "https://tinyurl.com/59hrr2xv",
+    "favorite": "100"
+  },
+  {
+    "id": 3,
+    "name": "Angular",
+    "image": "https://tinyurl.com/2pshnza2",
+    "favorite": "80"
+  },
+  {
+    "id": 4,
+    "name": "JavaScript",
+    "image": "https://tinyurl.com/2maxkum5",
+    "favorite": "90"
+  },
+  {
+    "id": 5,
+    "name": "Web Development",
+    "image": "https://tinyurl.com/5wmzrwwf",
+    "favorite": "90"
+  },
+  {
+    "id": 6,
+    "name": "Git",
+    "image": "https://tinyurl.com/5edtsv9m",
+    "favorite": "80"
+  },
+  {
+    "id": 7,
+    "name": "MERN",
+    "image": "https://tinyurl.com/2cb293xh",
+    "favorite": "80"
+  },
+  {
+    "id": 8,
+    "name": "Python",
+    "image": "https://tinyurl.com/yjvpydmb",
+    "favorite": "70"
+  },
+  {
+    "id": 9,
+    "name": "GraphQl",
+    "image": "https://tinyurl.com/5fxuedmm",
+    "favorite": "60"
+  },
+  {
+    "id": 10,
+    "name": "Tailwind CSS",
+    "image": "https://tinyurl.com/2tb7mw4c",
+    "favorite": "70"
+  },
+  {
+    "id": 11,
+    "name": "Data Science",
+    "image": "https://tinyurl.com/33v7jmzh",
+    "favorite": "60"
+  },
+  {
+    "id": 12,
+    "name": "Machine Learning",
+    "image": "https://tinyurl.com/xmr39w77",
+    "favorite": "60"
+  }
+]

@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400&display=swap');
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.profile { 
+  border-radius: 20px;
+}
+
+/* Tags */
+.react {
+  border: 0.1rem solid rgb(97, 218, 251);
+}
+.react:hover {
+  background: rgba(97, 218, 251, 0.25);
+}
+.next {
+  border: 0.1rem solid rgb(97, 218, 251);
+}
+.next:hover {
+  background: rgba(97, 218, 251, 0.25);
+}
+.node {
+  border: 0.1rem solid rgb(131, 205, 41);
+}
+.node:hover {
+  background: rgba(131, 205, 41, 0.25);
+}
+
+.mongodb {
+  border: 0.1rem solid rgb(67, 153, 52);
+}
+.mongodb:hover {
+  background: rgba(67, 153, 52, 0.25);
+}
+
+.redux {
+  border: 0.1rem solid rgb(118, 74, 188);
+}
+.redux:hover {
+  background: rgba(118, 74, 188, 0.25);
+}
+
+.tailwindcss {
+  border: 0.1rem solid rgb(82, 143, 240);
+}
+.tailwindcss:hover {
+  background: rgba(82, 143, 240, 0.25);
+}
+
+.material-ui {
+  border: 0.1rem solid rgb(25, 118, 210);
+}
+.material-ui:hover {
+  background: rgba(25, 118, 210, 0.25);
+}
+.bootstrap {
+  border: 0.1rem solid rgb(25, 118, 210);
+}
+.bootstrap:hover {
+  background: rgba(25, 118, 210, 0.25);
+}
+.firebase {
+  border: 0.1rem solid rgb(0, 209, 178);
+}
+.firebase:hover {
+  background: rgb(0, 209, 178, 0.25);
+}
+
+.next {
+  border: 2px solid rgb(0, 112, 243);
+}
+.next:hover {
+  background: rgba(0, 112, 243, 0.25);
+}
+.next-auth {
+  border: 0.1rem solid rgb(67, 153, 52);
+}
+.next-auth:hover {
+  background: rgba(67, 153, 52, 0.25);
+}
+.stripe {
+  border: 0.1rem solid rgb(67, 153, 52);
+}
+.stripe:hover {
+  background: rgba(67, 153, 52, 0.25);
+}
+.antd {
+  border: 0.1rem solid rgb(67, 153, 52);
+}
+.antd:hover {
+  background: rgba(67, 153, 52, 0.25);
+}
+.express {
+  border: 0.1rem solid rgb(0, 209, 178);
+}
+.express:hover {
+  background: rgb(0, 209, 178, 0.25);
+}
+.angular {
+  border: 0.1rem solid rgb(209, 94, 0);
+}
+.angular:hover {
+  background: rgba(243, 83, 9, 0.25);
+}
+.styled-components {
+  border: 0.1rem solid rgb(209, 94, 0);
+}
+.styled-components:hover {
+  background: rgba(243, 83, 9, 0.25);
+}
+.ngx-datatable {
+  border: 2px solid rgb(0, 112, 243);
+}
+.ngx-datatable:hover {
+  background: rgba(0, 112, 243, 0.25);
+}
+.Kevel {
+  border: 2px solid rgb(0, 112, 243);
+}
+.Kevel:hover {
+  background: rgba(0, 112, 243, 0.25);
+}
+.revel {
+  border: 2px solid rgb(0, 112, 243);
+}
+.revel:hover {
+  background: rgba(0, 112, 243, 0.25);
+}
+.AMP {
+  border: 0.1rem solid rgb(209, 94, 0);
+}
+.AMP:hover {
+  background: rgba(243, 83, 9, 0.25);
+}
+.getStream {
+  border: 0.1rem solid rgb(209, 94, 0);
+}
+.getStream:hover {
+  background: rgba(243, 83, 9, 0.25);
+}
+.GO {
+  border: 0.1rem solid rgb(146, 209, 0);
+}
+.GO:hover {
+  background: rgba(28, 243, 9, 0.25);
+}
+.Elastic-search{
+  border: 0.1rem solid rgb(73, 0, 209);
+}
+.Elastic-search:hover {
+  background: rgba(79, 9, 243, 0.25);
+}
