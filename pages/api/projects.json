@@ -19,19 +19,19 @@
   },
   {
     "id": 3,
-    "name": "Bizconnect",
+    "name": "Zimmi",
     "image": "https://tinyurl.com/66y4tfxt",
     "description": "The World’s First Global B2B Search Engine",
     "tags": ["react","redux","styled-components","antd","stripe","Elastic-search","getStream","Kevel"],
-    "demo": "https://bizconnect.com/home"
+    "demo": "https://zimmi.com/"
   },
   {
     "id": 4,
-    "name": "SantaBanta",
-    "image": "https://tinyurl.com/3kdxkn77",
-    "description": "Get latest entertainment news of Bollywood, Hollywood and Bollywood, celebrity news updates and celebrity interview by SantaBanta.",
-    "tags": ["react","redux","AMP","GO","revel"],
-    "demo": "https://www.santabanta.com/"
+    "name": "Lifedata",
+    "image": "https://tinyurl.com/yc3v74nk",
+    "description": "Revenue intelligence to solve the omnichannel dilemma and generate more revenue, working together with customers and employees to preserve the health of our planet",
+    "tags": ["react","redux","graphql","styled compoenent"],
+    "demo": "https://www.lifedata.ai/"
   },
   {
     "id": 5,
