@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Facebook Clone",
-    "image": "https://tinyurl.com/jp98et28",
+    "image": "https://tinyurl.com/2p8wj8sw",
     "description": "Clone of the popular social media website, Facebook",
     "tags": ["next", "tailwindcss", "firebase", "react", "next-auth"],
     "source_code": "https://github.com/itsnitinr/driwwwle",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "Zimmi",
-    "image": "https://tinyurl.com/66y4tfxt",
+    "image": "https://tinyurl.com/37u6766x",
     "description": "The World’s First Global B2B Search Engine",
     "tags": ["react","redux","styled-components","antd","stripe","Elastic-search","getStream","Kevel"],
     "demo": "https://zimmi.com/"
