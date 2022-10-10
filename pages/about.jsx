@@ -18,7 +18,7 @@ const AboutPage = () => {
               <span className={styles.waving}>👋</span> An efficient problem
               solver and a UI Engineer, Front-end development and building
               Responsive & High performance web applications. I've been coding
-              for over 2 years now. As a UI developer I've been working on a
+              for almost 3 years now. As a UI developer I've been working on a
               startup to help build & scale their company. Along the journey I
               realised my passion existed in learning as many technology as I
               can.
