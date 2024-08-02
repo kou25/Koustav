@@ -43,7 +43,7 @@ const Footer = () => {
           Copyright © 2024 Koustav Manna
         </p>
 
-        <div className="flex items-center md:gap-3 gap-6">
+        <div className="flex items-center md:gap-3 gap-6 mt-4 md:mt-0">
           {socialMedia.map((info) => (
             <Link
               href={info.cta}
