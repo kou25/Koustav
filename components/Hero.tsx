@@ -18,10 +18,10 @@ const ContainerScroll = dynamic(
 const Hero = () => {
   const words = ["better", "responsive", "beautiful", "modern"];
   return (
-    <div className="pt-36">
+    <div className="relative pt-36">
       <div>
         <Spotlight
-          className="-top-40 -left-10 md:-left-32 md:-top-20"
+          className="-top-40 -left-10 md:-left-32 md:-top-20 "
           fill="white"
         />
         <Spotlight className="top-40 left-full h-[80vh] w-[50vw]" fill="blue" />
