@@ -62,6 +62,9 @@ export const BentoGridItem = ({
               width={0}
               height={0}
               sizes="100vw"
+              layout="responsive"
+              cache="public, max-age=31536000"
+              loading="lazy"
             />
           )}
         </div>
@@ -78,6 +81,9 @@ export const BentoGridItem = ({
               width={0}
               height={0}
               sizes="100vw"
+              layout="responsive"
+              cache="public, max-age=31536000"
+              loading="lazy"
               className="object-cover object-center w-full h-full"
             />
           )}

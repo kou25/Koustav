@@ -18,6 +18,9 @@ const Footer = () => {
           width={0}
           height={0}
           sizes="100vw"
+          layout="responsive"
+          cache="public, max-age=31536000"
+          loading="lazy"
           className="w-full h-full opacity-50 "
         />
       </div>
@@ -57,6 +60,9 @@ const Footer = () => {
                 width={0}
                 height={0}
                 sizes="100vw"
+                layout="responsive"
+                cache="public, max-age=31536000"
+                loading="lazy"
                 className="w-5 h-5  "
               />
             </Link>
