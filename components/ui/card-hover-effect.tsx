@@ -61,8 +61,6 @@ export const HoverEffect = ({
                 className={"object-cover object-center w-full h-full"}
                 width={0}
                 height={0}
-                layout="responsive"
-                cache="public, max-age=31536000"
                 loading="lazy"
                 sizes="100vw"
               />

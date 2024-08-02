@@ -106,8 +106,6 @@ export const InfiniteMovingCards = ({
                     width={0}
                     height={0}
                     sizes="100vw"
-                    layout="responsive"
-                    cache="public, max-age=31536000"
                     loading="lazy"
                     className="w-12 h-12 rounded-full object-cover object-center  "
                     src={item.src}

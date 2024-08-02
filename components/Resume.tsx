@@ -15,9 +15,7 @@ const Resume = () => {
             width={0}
             height={0}
             sizes="100vw"
-            layout="responsive"
-            cache="public, max-age=31536000"
-            loading="lazy"
+            priority
             className="object-contain object-center w-full h-full"
           />
         </div>

@@ -30,8 +30,6 @@ const Projects = () => {
                 width={0}
                 height={0}
                 sizes="100vw"
-                layout="responsive"
-                cache="public, max-age=31536000"
                 loading="lazy"
                 className="md:w-16 w-10 "
               />
