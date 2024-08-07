@@ -60,17 +60,18 @@ export const projects = [
     img: "/mcs.png"
   },
   {
+    title: "iPhone 15 Pro 3D clone",
+    description:
+      "A 3D clone of iPhone homepage using Next.js,threejs and gsap.",
+    link: "https://apple15pro-six.vercel.app/",
+    img: "/iphone.png"
+  },
+  {
     title: "RolDrive clone",
     description:
       "A Clone of Roldrive homepage and blogs using Next.js and Node.js.",
     link: "https://logistifie-rho.vercel.app/",
     img: "/roldrive.png"
-  },
-  {
-    title: "Amazon 2.0",
-    description: "A clone of Amazon's homepage using Next.js and Tailwind CSS.",
-    link: "https://amazon-clone-kou25.vercel.app/",
-    img: "/amazon.png"
   },
 
   {
